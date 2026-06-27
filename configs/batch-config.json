@@ -1,0 +1,20 @@
+{
+  "animation_name": "curse-vfx-loop-001",
+  "prompt_path": "prompts/curse-vfx-001.md",
+  "generation_count": 8,
+  "keep_count": 3,
+  "frame_count": 24,
+  "grid": {
+    "columns": 4,
+    "rows": 6
+  },
+  "frame_size": {
+    "width": 312,
+    "height": 312
+  },
+  "background_color": "#00FF00",
+  "fps": 12,
+  "background_tolerance": 20,
+  "alpha_threshold": 8,
+  "allow_overwrite": false
+}
