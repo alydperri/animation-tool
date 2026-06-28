@@ -21,7 +21,7 @@ All GIF previews in this folder use transparent backgrounds.
 
 | Animation | Preview | Spritesheet | Notes |
 | --- | --- | --- | --- |
-| Idle east | `idle-east.gif` | Not included | 16-frame subtle idle loop |
+| Idle east | `idle-east.gif` | `idle-east-spritesheet.png` | 16-frame subtle idle loop |
 | Dash east | `dash-east.gif` | `dash-east-spritesheet.png` | 12-frame movement animation |
 | Cast curse | `cast-curse-002.gif` | `cast-curse-002-spritesheet.png` | 12-frame character action |
 | Curse VFX | `curse-vfx-001-batch-003.gif` | Not included | 24-frame supporting effect |
@@ -30,6 +30,7 @@ All GIF previews in this folder use transparent backgrounds.
 
 ```text
 idle-east.gif                  314 x 314, 16 frames
+idle-east-spritesheet.png      1256 x 1256
 dash-east.gif                  314 x 314, 12 frames
 dash-east-spritesheet.png      1256 x 942
 cast-curse-002.gif             512 x 512, 12 frames
