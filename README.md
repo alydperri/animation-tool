@@ -284,3 +284,6 @@ Usually do not commit:
 - `reference/workflow.md` gives the pipeline contract.
 - `reference/checklists.md` gives pre-submit and per-animation checks.
 - `reference/stages/` contains the detailed stage procedures.
+
+## Inspiration
+This workflow was inspired by [chongdashu’s AI Game Spritesheets pipeline](https://github.com/chongdashu/ai-game-spritesheets/tree/main), especially the insight that usable spritesheets require a repeatable generation-and-normalization process rather than one-off image prompting. This repo is my own folder-based specialist and local processing workflow, with separate review gates, workspace rules, and Python tooling for slicing, cleanup, normalization, preview, and final export.
